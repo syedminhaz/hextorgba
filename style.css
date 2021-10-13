@@ -1,0 +1,62 @@
+body{
+    background: url("../images/2.jpg") no-repeat center/cover;
+    height: 100%;
+    width: 80%;
+}
+
+.container{
+    background: rgba(12, 1, 6, .8);
+    width: 45%;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 40%;
+}
+
+.container input {
+    height: 40px;
+    width: 40%;
+}
+
+button.btn.convert {
+    background: #121745;
+    border: 1px solid #343964;
+    color: #ddd;
+    margin: 0 10px;
+}
+
+button.btn.convert:hover {
+    background: #151e53;
+    transition: .3s;
+}
+
+button.btn.reset {
+    background: #e8e6e6cc;
+    color: #000;
+}
+
+button.btn.reset:hover {
+    background: #f2ecec;
+    transition: .3s;
+}
+
+input.result {
+    height: 50px;
+    width: 45%;
+}
+
+h2.red {
+    color: #ff0000;
+}
+
+h2.green {
+    color: green;
+}
+
+h2.blue {
+    color: blue;
+}
+
+
+
